@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ssb-keys": "^7.2.0"
+  },
+  "name": "ssb-vanity",
+  "version": "1.0.0",
+  "description": "Generate custom vanity public keys for Secure Scuttlebutt (SSB).",
+  "main": "index.js",
+  "repository": "https://github.com/fraction/ssb-vanity",
+  "author": "Christian Bundy <christianbundy@fraction.io>",
+  "license": "AGPL-3.0",
+  "private": false
+}
