@@ -34,7 +34,7 @@ npm install ssb-vanity
 With [yarn](https://yarnpkg.com/en/):
 
 ```shell
-yarn add $$REPO
+yarn add ssb-vanity
 ```
 
 ## License
