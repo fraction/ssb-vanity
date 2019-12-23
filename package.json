@@ -3,7 +3,7 @@
     "ssb-keys": "^7.2.0"
   },
   "name": "ssb-vanity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate custom vanity public keys for Secure Scuttlebutt (SSB).",
   "main": "index.js",
   "repository": "https://github.com/fraction/ssb-vanity",
